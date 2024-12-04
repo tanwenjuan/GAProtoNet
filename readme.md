@@ -4,5 +4,5 @@
 pip -r requirements.txt
 
 ## run the model
-python src/train.py
+python models/train.py
 
